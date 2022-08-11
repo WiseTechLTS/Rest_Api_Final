@@ -26,11 +26,11 @@
         },
         "django": {
             "hashes": [
-                "sha256:07c8638e7a7f548dc0acaaa7825d84b7bd42b10e8d22268b3d572946f1e9b687",
-                "sha256:4e8177858524417563cc0430f29ea249946d831eacb0068a1455686587df40b5"
+                "sha256:41bd65a9e5f8a89cdbfa7a7bba45cd7431ae89e750af82dea8a35fd1a7ecbe66",
+                "sha256:9c6d5ad36be798e562ddcaa6b17b1c3ff2d3c4f529a47432b69fb9a30f847461"
             ],
             "index": "pypi",
-            "version": "==4.0.4"
+            "version": "==4.0.7"
         },
         "djangorestframework": {
             "hashes": [
@@ -65,14 +65,6 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==0.4.2"
-        },
-        "tzdata": {
-            "hashes": [
-                "sha256:238e70234214138ed7b4e8a0fab0e5e13872edab3be586ab8198c407620e2ab9",
-                "sha256:8b536a8ec63dc0751342b3984193a3118f8fca2afe25752bb9b7fffd398552d3"
-            ],
-            "markers": "sys_platform == 'win32'",
-            "version": "==2022.1"
         }
     },
     "develop": {}
